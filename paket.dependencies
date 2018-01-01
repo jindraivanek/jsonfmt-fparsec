@@ -1,0 +1,9 @@
+source https://www.nuget.org/api/v2
+
+nuget Argu
+nuget Expecto
+nuget FParsec
+
+group Build
+    source https://www.nuget.org/api/v2
+    nuget FAKE
